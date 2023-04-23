@@ -19,7 +19,7 @@
     infer.py
 ## 补充：
     1.数据增强：
-      在训练模式下使用albumentations对输入影响增强，可在\corecode\dataset\transforms.py
+      在训练模式下使用albumentations对输入影像增强，可在\corecode\dataset\transforms.py
       下对albtrans 修改自定义；
       val 和 test模式下不做数据增强；
     2.数据裁切：
